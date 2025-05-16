@@ -1,7 +1,7 @@
 {
     "Name": "Etheral | ",
     "workspace": "Etheral",
-    "Optionsurl": "",
+    "Optionsurl": "https://gitlab.com/r_soft/main/-/raw/main/EthernalOT.lua",
     "LoaderURL": "",
     "Debug": false,
     "cfservices": true,
