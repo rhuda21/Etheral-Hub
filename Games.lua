@@ -1,3 +1,3 @@
 getgenv().Games = {
-    [2] = "1", --
+    [126884695634066] = "https://rhuda21.github.io/Etheral-Hub/Scripts/GrowAGarden.lua", --
 }
