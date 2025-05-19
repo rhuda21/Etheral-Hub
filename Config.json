@@ -5,5 +5,6 @@
     "LoaderURL": "https://rhuda21.github.io/Etheral-Hub/Games.lua",
     "Debug": true,
     "cfservices": false,
+    "TestScript": true,
     "Message": "Welcome to Ethernal!"
 }
