@@ -3,8 +3,8 @@
     "workspace": "Etheral",
     "Optionsurl": "https://gitlab.com/r_soft/main/-/raw/main/EthernalOT.lua",
     "LoaderURL": "https://rhuda21.github.io/Etheral-Hub/Games.lua",
-    "Debug": true,
-    "cfservices": false,
-    "TestScript": true,
+    "Debug": false,
+    "cfservices": true,
+    "TestScript": false,
     "Message": "Welcome to Ethernal!"
 }
