@@ -6,5 +6,6 @@
     "Debug": false,
     "cfservices": true,
     "TestScript": false,
+    "PictureScript": "https://gitlab.com/r_soft/main/-/raw/main/Logo_Etheral.png",
     "Message": "Welcome to Ethernal!"
 }
